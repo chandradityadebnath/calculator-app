@@ -1,12 +1,13 @@
-# Calculator App
+# Weather App
 
-A simple desktop calculator application built with Python and Tkinter.
+A polished desktop weather application built with Python and Tkinter.
 
 ## Features
-- Basic arithmetic operations
-- Clear, backspace, and sign toggle
-- Keyboard input support
-- Modern dark-themed interface
+- Search cities and get current weather
+- Temperature display in Celsius and Fahrenheit
+- Wind speed, humidity, and wind direction
+- Clean dark theme with modern weather cards
+- Uses Open-Meteo free weather APIs
 
 ## Requirements
 - Python 3.8+
