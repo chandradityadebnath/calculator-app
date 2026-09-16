@@ -2,6 +2,7 @@
 
 A polished desktop weather application built with Python and Tkinter.
 
+
 ## Features
 - Search cities and get current weather
 - Temperature display in Celsius and Fahrenheit
