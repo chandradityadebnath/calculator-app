@@ -12,7 +12,7 @@ A polished desktop weather application built with Python and Tkinter.
 
 ## Requirements
 - Python 3.8+
-- Tkinter (included with most Python installations)
+- Tkinter ( this is included with most Python installations)
 
 ## Run the app
 From the project folder, run:
